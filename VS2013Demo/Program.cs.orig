@@ -12,15 +12,12 @@ namespace VS2013Demo
         {
             //Changes on the Main Branch from VS 2013
             //v1.1
+<<<<<<< Updated upstream
+            //master changes
+=======
 
             //these changes will be stashed
-            //master changes
-
-            //Change from visual studio 2013
-
-            //1.1.5 changes
-
-            //some more changes
+>>>>>>> Stashed changes
         }
     }
 }
