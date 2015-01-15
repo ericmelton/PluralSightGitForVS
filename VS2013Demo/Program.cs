@@ -15,6 +15,8 @@ namespace VS2013Demo
 
             //these changes will be stashed
             //master changes
+
+            //Change from visual studio 2013
         }
     }
 }
